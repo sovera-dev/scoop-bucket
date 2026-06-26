@@ -1,0 +1,22 @@
+{
+    "version": "0.1.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/sovera-dev/sovera-toolkit/releases/download/v0.1.2/pulse_0.1.2_windows_amd64.zip",
+            "bin": [
+                "pulse.exe"
+            ],
+            "hash": "1ecfbb85187228a0a073907dbe364ccf7fe5a04b302059234d96bf02617bdb87"
+        },
+        "arm64": {
+            "url": "https://github.com/sovera-dev/sovera-toolkit/releases/download/v0.1.2/pulse_0.1.2_windows_arm64.zip",
+            "bin": [
+                "pulse.exe"
+            ],
+            "hash": "2c309bc1c592fce382e10a2676de0a77584d87c33513e250207a14481adc7ecf"
+        }
+    },
+    "homepage": "https://github.com/sovera-dev/sovera-toolkit",
+    "license": "MIT",
+    "description": "Pulse — Sovera Markdown↔Confluence sync CLI"
+}
