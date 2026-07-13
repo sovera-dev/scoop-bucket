@@ -1,19 +1,19 @@
 {
-    "version": "0.1.5",
+    "version": "0.1.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/sovera-dev/sovera-toolkit/releases/download/v0.1.5/pulse_0.1.5_windows_amd64.zip",
+            "url": "https://github.com/sovera-dev/sovera-toolkit/releases/download/v0.1.6/pulse_0.1.6_windows_amd64.zip",
             "bin": [
                 "pulse.exe"
             ],
-            "hash": "9e1794673194214a17f764a48dcccd79ae586331f84627ae401e591139b9ece3"
+            "hash": "402e38271da016e17420f97804f664ce0c34b8db678c4fd53bb96e05bb365f23"
         },
         "arm64": {
-            "url": "https://github.com/sovera-dev/sovera-toolkit/releases/download/v0.1.5/pulse_0.1.5_windows_arm64.zip",
+            "url": "https://github.com/sovera-dev/sovera-toolkit/releases/download/v0.1.6/pulse_0.1.6_windows_arm64.zip",
             "bin": [
                 "pulse.exe"
             ],
-            "hash": "aaf6a49f800dfd5d41153bda09e51057e3d0c185520a99c04b7b72cc00df42d8"
+            "hash": "f7a5e86f363684eeb42c16127a07c1c355d7ed24f836327b68d114d4744f3d7b"
         }
     },
     "homepage": "https://github.com/sovera-dev/sovera-toolkit",
